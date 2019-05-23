@@ -152,6 +152,7 @@ SRC_C = \
 	alloc.c \
 	coverage.c \
 	fatfs_port.c \
+	example/example.c \
 	$(SRC_MOD)
 
 LIB_SRC_C = $(addprefix lib/,\
